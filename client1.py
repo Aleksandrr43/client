@@ -19,4 +19,4 @@ if __name__ == '__main__':
     # so you can use this method without arguments:
     # rules.all_rules()
     rules.create_rules()
-    rules.client_restart()
+    #rules.client_restart()
